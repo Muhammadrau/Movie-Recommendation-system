@@ -1,17 +1,17 @@
 # Movie-Recommendation-system
 
 
-## 📌 Project Overview  
+##  Project Overview  
 This project is built using Python and Machine Learning techniques.  
 The goal of this project is to develop a system that analyzes data and produces meaningful predictions / classifications based on input features.
 
-## 🎯 Objectives  
+##  Objectives  
 - Perform data preprocessing and cleaning  
 - Apply machine learning / deep learning techniques  
 - Evaluate model performance  
 - Generate predictions or recommendations  
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - Python  
 - Jupyter Notebook  
 - Pandas  
@@ -19,6 +19,6 @@ The goal of this project is to develop a system that analyzes data and produces 
 - Scikit-learn  
 - Matplotlib / Seaborn  
 
-*(Add or remove libraries based on your project)*
 
-## 📂 Project Structure  
+
+##  Project Structure  
